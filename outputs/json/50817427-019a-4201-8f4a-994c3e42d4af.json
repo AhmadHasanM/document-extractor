@@ -1,0 +1,516 @@
+[
+  {
+    "chunk_id": "chunk_10b9f9ae",
+    "title": "Pembuka",
+    "level": 1,
+    "content": "Makalah REVIEW Aplikasi Teknik Computed Tomography (CT) Scan dalam Penelitian Porositas\nTanah dan Perkembangan Akar The Use of Computed Tomography (CT) Scan Technique to Study Soil Porosity and Root\nDevelopment Achmad Rachman Balai Penelitian Tanah, Jl. Tentara Pelajar No. 12, Cimanggu, Bogor 16114. Email: arbb1@yahoo.com Diterima 23 Oktober 2015; Direview 26 Nopember 2015; Disetujui dimuat 11 Desember 2015 Abstrak: Perkembangan akar dan laju pergerakan air di dalam profil tanah sangat dipengaruhi oleh bentuk, ukuran, dan orientasi\ndari pori tanah. Tingginya variabilitas pori tanah, baik pada skala keruangan ( spatial ) maupun waktu ( temporal ), membutuhkan\nteknik pengukuran yang cepat dan dapat dilakukan berulangkali tanpa merusak obyek penelitian agar dihasilkan rekomendasi\npengelolaan yang lebih tepat. Penggunaan X-ray computed tomography (CT) scan , yang digunakan dalam dunia kedokteran untuk\nmendiagnose penyakit pasien, dapat digunakan secara cepat dan akurat untuk mengkuantifikasi porositas dan sifat-sifat tanah\nlainnya serta perkembangan perakaran di dalam tanah. Kelebihan teknik CT scan dibanding teknik sebelumnya seperti kurva\nkarakteristik air dan teknik irisan tipis adalah dapat mengkuantifikasi jumlah pori, pola distribusi keruangan, dimensi fraktal, dan\nbentuk pori dari gambar 3 dimensi (3-D) beresolusi tinggi yang dihasilkan. Makalah ini bertujuan untuk mereview penggunaan CT\nScan dalam penelitian porositas tanah dan perakaran untuk mendapatkan pemahaman yang lebih detil tentang interaksi antara\ntanah dan akar. Dengan pemahaman yang lebih detil tersebut dapat ditentukan teknik pengelolaan tanah dan tanaman yang lebih\nbaik untuk meningkatkan produktivtas pertanian.\nKata kunci: Computed Tomography (CT) Scan / Porositas Tanah / Perkembangan Akar / Teknik Analisis Abstract: Root development and water movement in the soil profile are highly affected by the shape, size and orientation of the\nsoil pores. The high spatial and temporal variability of soil porosity required a quick and repeated non-distruptive technique to\nmeasure it in order to develop a more suitable land management recommendation. The use of computed tomography (CT) scan,\nwhich has been used for years in medical examination of patient, can be utilized in quantifying rapidly and accurately soil porosity\nand other soil characteristics as well as root development in the soil sample. The advantage of CT scan technique over other\ntechniques such as soil water characterictis curve and thin section is the possibility to quantify the amount, spatial distribution,\nfractal dimension, and shape of the soil pores from 3-D high resolution image produced. The aim of this review is to offer a\nperspective on the possible application of CT scan technique in soil porosity and root studies to obtain more detail understanding\nof soil and root interactions. With that understanding, one can develop more accurate soil and crop management to improve\nagriculture productivity.\nKeywords: Computed Tomography (CT) Scan / Soil Porosit y/ Root Development / Technical Analysis\n",
+    "page_start": 1,
+    "page_end": 1,
+    "tables": 0,
+    "images": []
+  },
+  {
+    "chunk_id": "chunk_9e9b1ca6",
+    "title": "PENDAHULUAN",
+    "level": 1,
+    "content": "P ori tanah berperan sangat penting sebagai\nmedia pergerakan air di dalam tanah (Edwards\net al. 1988, Heard et al . 1988, Allaire-Leung et\nal . 2000, Rachman et al . 2004). Tanah yang mempunyai pori berukuran makro (>1.000 µ m) relatif banyak akan\nmempermudah bagi akar tanaman, udara, dan air\nuntuk melakukan penetrasi ke dalam tanah. Pergerakan\nair di dalam tanah yang mempunyai pori berkukuran\nmakro akan didominasi oleh pergerakan melalui pori\nmakro tersebut, khususnya pada kondisi mendekati\njenuh air di permukaan tanah. Secara alami, air\nbergerak mengikuti jalur yang kurang resistensinya, dalam hal ini pori makro. Sebaliknya, pada tanah yang\ntidak terdapat pori makro, air bergerak melalui pori\nberukuran mikro (<10 µ m) atau ruang-ruang di antara\nbutir-butir atau agregate tanah (Warner et al . 1989).\nLaju pergerakan air di dalam tanah dan retensi tanah\nterhadap pergerakan air tersebut sangat dipengaruhi\noleh bentuk, ukuran, dan orientasi dari pori tanah\n(Rasiah and Aylmore 1998).\nMetode yang umum digunakan dalam mengukur\nporositas tanah adalah dengan memprediksinya dari\nkurva karakteristik air tanah, tensiometer, dan bobot isi\ntanah (Jury et al . 1991, Everts and Kanwar 1993).\nPerhitungan porositas tanah dari kurva karakteristik air\ntanah\ndidasarkan\npada\nprinsip\nkapilaritas\nyang\nmenyatakan bahwa pada suatu nilai potensial matriks\nair tanah tertentu, hanya pori-pori dengan ukuran sama\ndengan atau lebih kecil diameter tertentu yang terisi air.\nPerhitungan porositas dengan metode tersebut hanya\ndapat menentukan distribusi ukuran pori dan volume\ntotal pori (Beven and Gremann 1982), namun tidak\ndapat menentukan secara spesifik lokasi, ukuran dan\npola keruangan ( spatial distribution ) pori di dalam tanah\n(Gantzer and Anderson 2002).\nSebagaimana sistem lain yang terbentuk secara\nalami, atribu-atribut tanah seperti porositas, agregasi\ndan kelembaban sangat bervariasi tingkatannya baik\nsecara horizontal maupun vertikal. Oleh karena itu,\nupaya untuk memahami perilaku tanah secara utuh\nhanya dapat dilakukan dengan mengetahui karakteris-\ntik dari masing-masing atribut tanah. Pemahaman\ntersebut penting dalam rangka menerapkan teknologi\nyang tepat dalam pengelolaannya sehingga sumberdaya\ntanah dapat memberikan manfaat yang sebesar-\nbesarnya dan berkelanjutan ( sustainable ). X-ray computed\ntomography (CT) scan , yang digunakan dalam dunia\nkedokteran untuk mendiagnose penyakit pasien dapat\nmenjawab tantangan tersebut.\nPenggunaan teknik CT scan dalam penelitian\ntanah pertama kali dilaporkan oleh Petrovic et al. (1982)\nyang membuktikan adanya hubungan linear antara\nhasil dari CT scan dengan berat jenis tanah (BD).\nSetelah dipublikasikannya hasil penelitian Petrovic et al.\n(1982), penggunaan CT scan untuk mengkuantifikasi\nsebaran pori tanah, agregat tanah dan kelembaban\ntanah telah banyak dilakukan dan menunjukkan hasil\nyang sangat baik (Anderson et al .1988, Warner et al .\n1989; Anderson et al . 1990, Rasiah and Aylmore 1998,\nPerret et al . 1999; Rachman et al . 2005). Makalah ini\nbertujuan untuk mereview beberapa penelitian fisika\ntanah yang menggunakan CT scan . Metode CT scan ini\ndapat secara tepat mendeteksi pori tanah dan\nkerapatannya termasuk juga mengkuantifikasi diameter\npori sampai pada ukuran sekecil 0,15 mm (Gantzer and\nAnderson 2002).\nOVERVIEW MEKANISME KERJA CT SCAN Sinar X ( X-rays ) dikembangkan sebagai alat\nbantu dalam dunia kedokteran untuk mendiagnose\npenyakit pasien. Kelebihan utama dari teknik ini adalah\nkemampuannya memperlihatkan bagian dalam dari suatu obyek tanpa menimbulkan kerusakan fisik pada\nobyek yang sedang diteliti ( non-destructive technique ).\nTeknologi X-rays ditemukan oleh Wilhelm Conrad\nRoentgen pada tahun 1895. Dari penelitian yang\ndilakukannya di laboratorium, Roentgen menemukan\nadanya radiasi misterius yang dapat melakukan\npenetrasi ke dalam tubuh dan menghasilkan gambar\ntulang. Setelah melakukan uji coba ke tangan istrinya,\nRoentgen kemudian mengumumkan penemuannya\npada tanggal 28 Desember 1895 (Assmus 1995).\nTemuan ini digunakan secara luas dalam dunia\nkedokteran yang dikenal sebagai teknik Roentgen\nhingga saat ini.\nTeknik yang lebih canggih dari teknik Roentgen\nditemukan dan dikembangkan oleh Godfrey Hounsfield\n(Hounsfield 1973) yang kemudian dikenal sebagai CT\n( computed tomography ) scan. Dasar pemikiran dari\ntemuannya adalah bahwa suatu benda yang disimpan\ndalam kotak tertutup dapat diketahui bentuknya tanpa\nmerusak kotaknya dengan melakukan pembacaan x-ray\ndari berbagai sudut dari benda tersebut. Sebagai\nseorang ahli komputer dan radar, dia kemudian\nmenciptakan aplikasi yang dapat menggabungkan\ngambar x-rays yang diambil dari berbagi sudut untuk\nmenghasilkan gambar dari obyek dalam bentuk irisan\n( slices ).\nSecara umum CT scan terdiri atas empat\nperangkat alat utama yaitu sumber radiasi, sistim\ndeteksi (detektor), manipulator mekanis dan komputer\nbeserta monitor. Sumber radiasi berfungsi untuk\nmelepaskan radiasi ke obyek yang kemudian ditangkap\noleh detektor, sumber radiasi dan detektor berputar\nmengelilingi obyek selama proses scanning berlangsung.\nManipulator mekanis berfungsi untuk menentukan\ngeometri gerak scanner yang tergantung “generasi” CT\nscan . Komputer berfungsi untuk mengolah data yang\nkemudian\nditayangkan\npada\nmonitor\nsehingga\ndiperoleh gambar irisan atau penampang 2 dimensi (2-\nD) atau peta distribusi internal 3 dimensi (3-D) obyek\nyang discan.\nCara kerja CT scan mirip dengan perangkat\nradiografi lainnya yaitu keduanya menggunakan\nintensitas radiasi terusan setelah melewati suatu obyek\nuntuk membentuk citra atau gambar. Perbedaan\nmendasar dari kedua perangkat ini adalah pada teknik\nyang digunakan untuk memperoleh citra dan pada citra\nyang dihasilkan. Konvensional X-ray menampakkan\nobyek hanya dari satu sisi saja dan gambar yang\ndihasilkan seperti sebuah bayangan yang terekam pada\nsebuah film. Pada teknik CT, tabung X-ray dan sistim\ndeteksi berputar mengelilingi obyek yang di-scan\n(Gambar 1).\nGambar 1. Gambar skematik cara kerja CT Scan\ngenerasi keempat Figure 1.\nSchematic diagram showing work mechanism\nof the 4 th generation of CT Scan Sumber radiasi yang berputar mengelilingi obyek\nakan melepaskan sinar yang kemudian melewati/\nmenembus obyek. Detektor yang juga berputar\nmengelilingi obyek, mengukur intensitas dari sinar X\nyang telah melewati obyek. Komputer kemudian\nmenghitung nilai dari koefisien atenuasi linear obyek\n(µ) sebagai fungsi dari posisi di dalam penampang\nlintang obyek. Dengan cara tersebut, informasi\npenampang melintang obyek akan diperoleh dari\nbanyak sudut proyeksi. Dari informasi tersebut,\npenampang melintang obyek dalam bentuk 3-D\nkemudian direkonstruksi.\nObyek yang direkonstruksi terdiri atas 3 dimensi\nelemen volume ( three-dimensional volume elements ) atau\ndisingkat voxels . Informasi citra yang dihasilkan dari CT\nscan terdiri atas kumpulan 2 dimensi angka ( two\ndimensional array of numbers ) yang sering disebut sebagai\n“Angka CT”. “Angka CT” ini dapat ditampilkan dalam\nbentuk print out angka di atas kertas, citra keabuan\n( greyscale ) maupun berwarna. Sebuah citra CT terbentuk\ndari picture elements atau disingkat pixels ; pada saat ini\nmedical CT scanner (MCT) umumnya mempunyai pixels\n512 x 512 dengan ketebalan “irisan” mencapai 0,5 mm.\nCT scanner yang lebih tinggi resolusinya atau disebut\njuga ultra-high resolution CT scanner (UHCT), ketebalan A. Rachman: Aplikasi Teknik Computed Tomography (CT) Scan irisannya mencapai 0,097 mm. Dengan demikian citra\nyang dihasilkan oleh CT scanner dapat dilihat sebagai\npeta distribusi keruangan internal obyek dalam tiga\ndimensi yang memudahkan dalam menganalisa sebaran\nstruktur internal obyek.\nSinar X yang melewati suatu obyek akan\nmengalami\natenuasi/perubahan\narah\n( attenuated ).\nDerajat atenuasi sangat tergandung pada densitas dan\nnomor\natom\ndari\nobyek\nyang\ndi-scan.\nUntuk\nmonoenergetic X-rays yang melewati sebuah obyek yang tebalnya d dapat dijelaskan berdasarkan hukum Beer\n( Beer’s Law ) dengan rumus sebagai berikut:\n𝐼= 𝐼𝑜\n𝑒 −(𝜇𝐸𝑑)\n............................................................................... (1) Dimana I adalah intensitas radiasi yang telah mengalami atenuasi, Io adalah intensitas radiasi awal, µ\nadalah koefisien atenuasi linier ( linear attenuation coefficient ) sebagai fungsi dari BD obyek, nomor atom dan energi radiasi (E) dan d adalah tebal obyek\n(Denison et al . 1997). Dari persamaan (1) dapat dilihat bahwa makin besar d atau µ , maka akan menghasilkan nilai I yang makin kecil atau telah terjadi atenuasi yang semakin besar (Gambar 2).\nGambar 2. Hubungan antara intensitas radiasi yang\ntelah mengalami atenuasi dengan ketebalan\nobyek Figure 2.\nCorrelation between attenuated radiation and\nthickness of object Persamaan (1) berlaku untuk obyek yang\nhomogen dengan densitas yang seragam. Untuk obyek\nyang heterogen seperti tubuh manusia atau contoh\ntanah, Persamaan (1) perlu di integralkan sehingga\nmenjadi sebagai berikut:\n𝐼= 𝐼𝑜\n𝑒 [−∫𝜇(𝑥)𝑑𝑥]\n..................................................................... (2)\nDimana µ(x) adalah koefisien linier atenuasi\nsebagai fungsi dari jarak, x, dari sumber sinar X yang\nnilainya antara 0 sampai dengan D, tebal dari obyek\nyang discan. Meskipun secara teori Persamaan (2)\nbenar, namun belum dapat diketahui distribusi\nkoefisien atenuasi di dalam obyek karena hanya satu\nsinar\nyang\ndiatenuasi\ndan\ndimonitor.\nDengan\nmenggunakan\nCT-scan,\nkoefisien\natenuasi\npada\nberbagai titik di dalam obyek yang di scan dapat\ndiketahui\nkarena\nadanya\nsejumlah\nsinar\nyang\ndipancarkan dan menembus obyek yang datang dari\nberbagai sudut (0-360 ° ). Dengan demikian, Persamaan\n(2) menjadi:\n𝐼𝑖𝑗= 𝐼𝑜\n𝑒 [−∫𝜇(𝑥,𝑦)𝑑𝑠]\n......................................\n(3) Dimana i adalah posisi detektor di detector array , j\nadalah posisi dari pusat detector array, dan s adalah\njarak dari sumber radiasi yang nilainya bervariasi dari 0\nsampai S. Aplikasi komputer merekonstruksi data yang\nterekam di fan beam menjadi beberapa profil yang\nkemudian\npada\nmasing-masing\nprofil\ndilakukan\nbackprojection menjadi sebuah image. Gabungan dari\nbackprojection dari semua profil pada masing-masing\npoin kemudian ditampilkan dalam bentuk gambar CT.\nDengan demikian, gambar CT yang diperoleh pada\ndasarnya adalah sebuah ”peta” tentang koefisien linier\natenuasi, µ(x,y).\nKoefisien\nlinier\natenuasi\ndipengaruhi\noleh\nkepadatan obyek yang di scan (Phillips and Lannutti,\n1997). Makin padat obyeknya akan menghasilkan\natenuasi yang lebih besar dibanding obyek yang\nkepadatannya lebih kecil; dengan demikian, dua obyek\nyang berbeda kepadatannya akan menghasilkan gambar\nsinar x yang berbeda. Gambar digital yang dihasilkan\ndari\nproses\nCT\nscan\nmemperlihatkan\npotongan\nmelintang bagian dalam obyek, darimana material yang\nterekam dapat dibedakan.\n",
+    "page_start": 1,
+    "page_end": 4,
+    "tables": 0,
+    "images": [
+      {
+        "page": 1,
+        "index": 0,
+        "xref": 662,
+        "width": 244,
+        "height": 38,
+        "bbox": [
+          428.3399963378906,
+          58.1400146484375,
+          545.3399658203125,
+          76.1400146484375
+        ]
+      },
+      {
+        "page": 3,
+        "index": 0,
+        "xref": 11,
+        "width": 295,
+        "height": 328,
+        "bbox": [
+          83.39988708496094,
+          153.36000061035156,
+          224.87986755371094,
+          310.79998779296875
+        ]
+      },
+      {
+        "page": 3,
+        "index": 1,
+        "xref": 13,
+        "width": 79,
+        "height": 47,
+        "bbox": [
+          135.11959838867188,
+          168.12001037597656,
+          172.91958618164062,
+          190.44000244140625
+        ]
+      },
+      {
+        "page": 3,
+        "index": 2,
+        "xref": 15,
+        "width": 112,
+        "height": 113,
+        "bbox": [
+          74.76000213623047,
+          264.959716796875,
+          128.51998901367188,
+          318.8397216796875
+        ]
+      },
+      {
+        "page": 3,
+        "index": 3,
+        "xref": 17,
+        "width": 94,
+        "height": 26,
+        "bbox": [
+          53.81999969482422,
+          263.3399353027344,
+          98.69999694824219,
+          275.8199462890625
+        ]
+      },
+      {
+        "page": 3,
+        "index": 4,
+        "xref": 19,
+        "width": 154,
+        "height": 16,
+        "bbox": [
+          158.39999389648438,
+          168.0,
+          232.31997680664062,
+          175.44000244140625
+        ]
+      },
+      {
+        "page": 3,
+        "index": 5,
+        "xref": 21,
+        "width": 154,
+        "height": 16,
+        "bbox": [
+          158.39999389648438,
+          168.0,
+          232.31997680664062,
+          175.44000244140625
+        ]
+      },
+      {
+        "page": 3,
+        "index": 6,
+        "xref": 23,
+        "width": 158,
+        "height": 16,
+        "bbox": [
+          150.9597930908203,
+          265.55810546875,
+          226.4397735595703,
+          273.11810302734375
+        ]
+      },
+      {
+        "page": 3,
+        "index": 7,
+        "xref": 25,
+        "width": 121,
+        "height": 16,
+        "bbox": [
+          166.1999969482422,
+          295.67999267578125,
+          224.0399932861328,
+          303.1199951171875
+        ]
+      },
+      {
+        "page": 3,
+        "index": 8,
+        "xref": 26,
+        "width": 519,
+        "height": 217,
+        "bbox": [
+          310.6282043457031,
+          456.28076171875,
+          547.328125,
+          555.2318115234375
+        ]
+      },
+      {
+        "page": 3,
+        "index": 9,
+        "xref": 28,
+        "width": 78,
+        "height": 47,
+        "bbox": [
+          135.59959411621094,
+          160.79928588867188,
+          172.67959594726562,
+          182.999267578125
+        ]
+      },
+      {
+        "page": 3,
+        "index": 10,
+        "xref": 30,
+        "width": 81,
+        "height": 234,
+        "bbox": [
+          149.99961853027344,
+          183.24000549316406,
+          188.5196075439453,
+          295.55999755859375
+        ]
+      },
+      {
+        "page": 3,
+        "index": 11,
+        "xref": 32,
+        "width": 81,
+        "height": 235,
+        "bbox": [
+          120.11962127685547,
+          183.23989868164062,
+          158.63961791992188,
+          295.67987060546875
+        ]
+      },
+      {
+        "page": 3,
+        "index": 12,
+        "xref": 34,
+        "width": 78,
+        "height": 63,
+        "bbox": [
+          135.59999084472656,
+          228.3599853515625,
+          173.0399932861328,
+          258.3599853515625
+        ]
+      },
+      {
+        "page": 3,
+        "index": 13,
+        "xref": 36,
+        "width": 109,
+        "height": 25,
+        "bbox": [
+          219.5399932861328,
+          294.17999267578125,
+          271.8599853515625,
+          305.94000244140625
+        ]
+      },
+      {
+        "page": 3,
+        "index": 14,
+        "xref": 38,
+        "width": 78,
+        "height": 28,
+        "bbox": [
+          229.8599853515625,
+          232.2599639892578,
+          267.29998779296875,
+          245.5799560546875
+        ]
+      },
+      {
+        "page": 3,
+        "index": 15,
+        "xref": 40,
+        "width": 120,
+        "height": 53,
+        "bbox": [
+          228.6599884033203,
+          165.4199981689453,
+          286.2599792480469,
+          190.5
+        ]
+      },
+      {
+        "page": 3,
+        "index": 16,
+        "xref": 42,
+        "width": 120,
+        "height": 43,
+        "bbox": [
+          224.8199920654297,
+          260.2200012207031,
+          282.41998291015625,
+          280.6199951171875
+        ]
+      }
+    ]
+  },
+  {
+    "chunk_id": "chunk_754700b4",
+    "title": "APLIKASI CT SCAN DALAM",
+    "level": 1,
+    "content": "PENELITIAN TANAH Penelitian Porositas Tanah Porositas tanah dan berat jenis tanah merupakan\ndua parameter tanah yang penting mempengaruhi\npergerakan air di dalam tanah (Rachman et al . 2004).\nPorositas tanah, terutama pori makro, menentukan kemampuan tanah dalam melalukan air, mensuplai\noksigen ke perakaran tanaman, menyimpan air tanah,\ndan sebagai indikator tingkat kepadatan tanah. Selain\nvolume total, karakteristik dari pori tanah yang sangat\npenting untuk diketahui diantaranya adalah diameter\npori, kontinuitas dan haluan pori (vertikal atau lateral).\nHaluan vertikal penting untuk mengisi ( recharge ) sumber\nair tanah dan membuang bahan-bahan beracun dari\nzona perakaran tanaman, sementara haluan horizontal\npenting untuk mensuplai air ke akar tanaman.\nVariabilitas keruangan ( spatial variability ) sifat pori\ntanah\ndi\nlapangan\nsangat\ntinggi\nseperti\nyang ditunjukkan pada Gambar 3. T anah yang belum\nmengalami pemadatan akibat penggunaan mesin-mesin\npertanian menunjukkan pori makro tanah terbentuk ke\narah vertikal dan horizontal sehingga air dapat bergerak\nvertikal kebawah dan horizontal untuk mensuplai air ke\ndaerah perakaran tanaman, sedangkan tanah yang\nsudah mengalami pemadatan, pembentukan pori\nmakro searah vertikal sangat berkurang secara nyata\ndan horizontal hampir tidak ada.\nA\nB Sumber: Lamandé et al. (2013) Gambar 3. Porositas tanah pada tanah yang belum\nmengalami pemadatan (A) dan tanah yang\nsudah mengalami pemadatan (B) Figure 3.\nSoil porosity of non-compacted soil (A) and\ncompacted soil (B) Sebelum digunakannya teknik CT scan untuk\nmengukur variabilitas pori tanah, telah berkembang\nteknik “irisan tipis”. Teknik ini dilakukan dengan\nterlebih dahulu mengisi pori contoh tanah dengan\nbahan yang mudah mengeras ketika mendingin seperti\nresin, sedangkan udara dan air yang sebelumnya\nmengisi pori tanah akan terdesak keluar. Kemudian\ncontoh tanah dikupas vertikal dengan tebal irisan yang\ntipis. Setiap irisan diambil gambarnya kemudian\ndianalisis\nmenggunakan\nteknik\nanalisa\ngambar.\nProsedur ini tentu saja memerlukan waktu yang lama\ndan besar kemungkinan akan mengganggu struktur\nmikro contoh tanah.\nKemajuan yang dicapai dalam pengembangan\nteknologi sinar x ( x-ray ) dengan ditemukannya tekno-\nlogi CT scanner telah memungkinkan dilakukannya\npenelitian sifat fisik tanah dengan cepat tanpa merusak\ncontoh tanah dan menghasilkan gambar 3-D dari\ncontoh tanah yang diteliti (Anderson et al . 1988).\nPenggunaan teknik CT scan memungkinan diperoleh-\nnya gambar dengan resolusi yang jauh lebih baik\ndibanding metode sebelumnya seperti teknik “irisan\ntipis”. Penempatan contoh tanah dalam proses scanning\ndigambarkan secara skematik pada Gambar 4.\nGambar 4. Skema penempatan contoh tanah dalam\nproses scanning oleh CT scanner Figure 4.\nSchematic diagram showing placement of soil\nsample for scanning by CT scanner Teknik ini semakin berkembang tidak hanya\nmengukur berat jenis tanah, tetapi termasuk juga\nmineral, bahan organik, struktur, pemadatan dan biota\ntanah dengan tingkat kedetilan yang makin tinggi\n(Taina et al . 2007). Pada awal tahun 1980-an, ketebalan\nirisan yang dihasilkan oleh CT Scanner masih berkisar\n12 mm dengan ukuran pixel ( picture element ) berdimensi\n1,25 x 1,25 mm, dengan ketebalan irisan tersebut maka\nCT Scanner hanya mampu mendeteksi pori yang\nberukuran besar (>2-mm). Pada pertengahan tahun\n2000-an, CT scanner sudah mampu menghasilkan tebal A. Rachman: Aplikasi Teknik Computed Tomography (CT) Scan irisan 0,097 mm, pixel berdimensi 0,148 x 0,148 mm\nsehingga menghasilkan voxel ( volume element ) 0,0021\nmm 3 . Dengan menggunakan CT scan beresolusi tinggi,\ndimungkinkan untuk menganalisa pori berukuran\nsedang dan mikro (< 2 mm) dan sifat tanah lainnya.\nPenggunaan CT Scan dalam penelitian tanah\npertama kali diperkenalkan oleh Petrovic et al. (1982)\ndengan menggunakan butiran glass ( glass bead ) dan\ntanah yang sudah di saring untuk mensimulasikan\nvariasi berat jenis, menemukan adanya hubungan linier\nantara berat jenis tanah dengan rata-rata koefisien linier\natenuasi dari contoh tanah yang di scan. Mereka juga\nmelaporkan bahwa dengan menggunakan teknik CT,\nlubang artifisial berdiameter 15 mm yang sengaja\ndibuat dan penempatan tiga buah krikil berbeda ukuran\ndalam contoh tanah dapat diidentifikasi dalam bentuk\ngambar 3 dimensi dengan resolusi keruangan ( spatial\nresolution ) yang baik.\nAnderson et al. (1988) menggunakan teknik CT\nScan untuk mengukur berat jenis dan kelembaban tanah\ndari dua jenis tekstur tanah yang berbeda, lempung\nberdebu dan liat berdebu. CT scanner yang digunakan\nadalah Philips Tomoscan 310 yang menghasilkan pixel\n( picture element ) berukuran 1,25 x 1,25 mm. Hasil yang\ndiperoleh menunjukkan adanya hubungan linier (r 2 =\n0,99) antara rata-rata koefisien liniear atenuasi dengan\nvolume fraksi padatan yang berhubungan dengan berat\njenis untuk kedua jenis tekstur tanah yang diteliti.\nPires\net\nal .\n(2011)\nmengamati\nperubahan\nporositas tanah pada 4 lapisan kedalaman tanah akibat\nperlakuan pembasahan dan pengeringan yang berulang.\nLapisan pertama (permukaan) sedalam 0-7 mm (A),\nlapisan kedua pada kedalaman 7-28 mm. Dengan\nmenganalisa gambar yang dihasilkan dari CT Scan\nGenerasi Pertama dapat dikuantifikasi perubahan\nporositas tanah pada masing-masing lapisan setebal 7\nmm (Tabel 1). Lapisan permukaan memiliki porositas\nyang lebih rendah dibanding lapisan dibawahnya yang\nberarti lapisan permukaan lebih padat. Perlakukan\npembasahan dan pengeringan sebanyak 9 kali dapat\nmeningkatkan porositas tanah. Pemahaman tentang\nkarakteristik pemadatan pada lapisan permukaan tanah\n( soil crusting ) sangat penting dalam kaitannya dengan\naliran permukaan dan perkecambahan benih. Pada\ntanah yang terdapat pemadatan di permukaan akan\nmenghambat laju infiltrasi air ke dalam tanah sehingga\naliran permukaan akan lebih banyak. Demikian pula\nterhadap perkecambahan benih yang terhambat karena\nadanya lapisan tersebut.\nDengan\nmenggunakan\nteknik\nyang\nsama,\nRachman et al. (2005) menganalisa perubahan berat\njenis tanah, jumlah pori, jumlah pori makro dan meso,\ndimensi fraktal ( fractal dimension ) dan bentuk pori pada\nperlakukan\nkonservasi\ntanah\nmenggunakan\nstrip\nrumput. CT scanner yang digunakan adalah Siemens\nSomatom Plus 4 Volume Zoom. Parameter scanner diset\npada 125 kV, 400 MA-s dan 1,5-s waktu scan untuk\ndapat menghasilkan proyeksi yang lebih de dan sedikit\nnoise . Scanner menghasilkan pixel berdimensi 0,19 x\n0,19 mm de ngan tebal “irisan” 0,5 mm, dengan\ndemikian diperoleh voxel berukuran 0,018 mm 3 .\nGambar yang dihasilkan, setelah diolah menggunakan\naplikasi ImageJ (Rasband 2002), ditunjukkan pada\nGambar 5.\nDari Gambar 5 tersebut jelas terlihat perbedaan\ntingkat kepadatan tanah dimana contoh tanah yang\ndiambil di dalam barisan strip rumput (Gambar 5A &\nB) lebih gembur (pori lebih banyak) dibanding contoh\nyang diambil dari dalam barisan pertanaman jagung\n(Gambar 5C & D) dan dari zona endapan sedimen\n(Gambar\n5E\n&\nF).\nPengukuran\npori\nmakro\nmenggunakan teknik CT scan menunjukkan hasil yang\nsesuai dengan hasil yang diperoleh menggunakan\nteknik kurva karakteristik air (Tabel 2). Terdapat\nkecenderungan bahwa hasil penetapan pori makro\nmenggunakan teknik kurva karakteristik air lebih besar\ndibanding teknik CT scan , namun secara statistik tidak\nberbeda nyata.\nKelebihan dari teknik CT scan dibanding teknik\nsebelumnya (kurva karakteristik air dan irisan tipis)\nadalah\ndimungkinkannya\nuntuk\nmengkuantifikasi\njumlah pori, pola distribusi keruangan, dimensi fraktal,\ndan bentuk pori. Dari penelitian Rachman et al . (2005)\ndiperoleh hasil dimana pada zone strip rumput terdapat\nrata-rata jumlah pori sebanyak 142,4 dan sebanyak 59,6\npada zona pertanaman jagung serta terkecil yaitu\nsebesar 28,5 pada zona endapan sedimen (Tabel 3).\nPori berukuran makro (>1.000 µm) dan meso (200-\n",
+    "page_start": 4,
+    "page_end": 6,
+    "tables": 0,
+    "images": [
+      {
+        "page": 4,
+        "index": 0,
+        "xref": 48,
+        "width": 615,
+        "height": 415,
+        "bbox": [
+          310.69256591796875,
+          408.03363037109375,
+          547.5425415039062,
+          567.8336181640625
+        ]
+      },
+      {
+        "page": 5,
+        "index": 0,
+        "xref": 53,
+        "width": 441,
+        "height": 426,
+        "bbox": [
+          72.6429443359375,
+          360.21417236328125,
+          242.8902587890625,
+          524.76416015625
+        ]
+      }
+    ]
+  },
+  {
+    "chunk_id": "chunk_66317caa",
+    "title": "1.000 µm) terbanyak dijumpai pada zona strip rumput",
+    "level": 2,
+    "content": "yaitu masing-masing 0,056 m 3 /m 3 dan 0,006 m 3 /m 3 .\nUntuk parameter bentuk pori, zona pertanaman jagung\nmenghasilkan bentuk pori yang lebih membulat yang\nditandai dengan rata-rata nilai circularity yang lebih\nbesar (1,031) disusul oleh zona endapan sedimen\n(0,965) dan zona strip rumput (0,940).\nNilai circularity menunjukkan dimensi panjang\ndan besar pori secara kualitatif dari suatu perlakukan\ndibanding perlakuan lainnya, semakin rendah nilai\ncircularity menunjukkan porositas tanah yang relatif\nlebih panjang dan besar (Mermut et al . 1992). Pada\nkondisi dimana porositas tanah yang relatif lebih\npanjang dan besar maka hantaran hidrolik tanah\ndemikian pula laju infiltrasi akan lebih besar sehingga\naliran permukaan menjadi lebih kecil.\nSementara nilai dimensi fraktal menunjukkan panjang lingkar luar dari pori. Semakin panjang nilai dimensi fraktal, semakin besar dimensi ukuran pori yang diukur sehingga makin besar kemampuannya dalam\nmelakukan\nair.\nPerkembangan\nperakaran tanaman rumput pada zona strip rumput yang lebih baik dibanding pada zona sedimentasi dan strip rumput menghasilkan porositas tanah yang lebih tinggi baik dalam jumlah, ukuran dan bentuk. Namun demikian,\nhasil penelitian Udawatta et al. (2008) menunjukkan bahwa parameter porositas tanah yang korelasinya sangat tinggi terhadap hantaran hidraulik tanah adalah jumlah pori.\n",
+    "page_start": 6,
+    "page_end": 6,
+    "tables": 0,
+    "images": [
+      {
+        "page": 6,
+        "index": 0,
+        "xref": 59,
+        "width": 1061,
+        "height": 398,
+        "bbox": [
+          42.89999771118164,
+          69.05999755859375,
+          551.9400024414062,
+          259.97998046875
+        ]
+      }
+    ]
+  },
+  {
+    "chunk_id": "chunk_116926a9",
+    "title": "A. Rachman: Aplikasi Teknik Computed Tomography (CT) Scan",
+    "level": 2,
+    "content": "Penelitian Rachman et al . (2005) menyimpulkan\nbahwa hasil pengukuran pori makro menggunakan\nteknik CT scan sangat sesuai dengan hasil yang\ndiperoleh menggunakan metode kurva karakteristik air.\nDengan demikian, pengukuran dengan teknik CT scan\ndapat mengkuantifikasi perbedaan porositas tanah\nsebagai akibat dari perbedaan sistim pengelolaan tanah\ndan tanaman.\nPenelitian Perkembangan Perakaran di Dalam Tanah\nPenelitian tentang perkembangan akar di dalam\ntanah umumnya ditujukan untuk mengetahui bagaima-\nna akar berfungsi dalam mendukung pertumbuhan\ntanaman dan kaitannya dengan sifat-sifat tanah yang\nmerupakan media tumbuh. Tantangan utama dalam\nmencapai tujuan tersebut adalah tingginya variabilitas\nsifat fisik, kimia dan biologi tanah di lapangan dan\nrespon akar tanaman yang berbeda terhadap kondisi\ntanah yang beragam (Ho et al . 2005). Metode penelitian\nuntuk mempelajari interaksi akar dan media tumbuh\ndilakukan\nantara\nlain\ndengan\nmetode\nmonolit,\npengeboran dan “dinding profil” ( profile wall) . Teknik\nmonolit yaitu dengan mengangkat bongkahan tanah\nutuh beserta akar yang ada didalamnya yang kemudian\ndilanjutkan dengan pencucian untuk memisahkan\ntanah dari akar. Dengan teknik monolit ini dapat\ndikuantifikasi\nberat\ndan\nvolume\nakar.\nTeknik\npengeboran dilakukan dengan mengebor tanah dimana\nvolume\nbor\nsudah\ndiketahui\nsehingga\ndapat\ndiperkirakan volume akar dalam tanah. Teknik\n“dinding profil” dilakukan dengan terlebih dahulu\nmenggali\ntanah\nsedalam\n1-3\nmeter,\ntergantung\nkedalaman perakaran, di sekitar perakaran tanaman.\nDilanjutkan dengan eskavasi pada dinding tanah yang terbentuk setelah penggalian untuk memisahkan tanah\ndari akar. Jaringan akar yang menonjol pada dinding\ntanah kemudian digambar dan difoto untuk dianalisa.\nKetiga\nteknik\npenelitian\nakar\ntersebut\nselain\nmembutuhkan waktu yang lama juga sangat diperlukan\nkehati-hatian dan kesabaran yang tinggi agar tidak\nmerusak atau memutus akar.\nKelebihan teknik CT Scan dibanding teknik tersebut di atas adalah dapat dihasilkan gambar 3-D\nsetiap saat diinginkan tanpa merusak obyek penelitian (tanah dan akar). Dari gambar 3-D tersebut dapat\ndianalisa dan dikuantifikasi, menggunakan aplikasi\nkomputer, antara lain bagaimana akar merespon secara\nmorpologi\nheterogenitas\nsifat-sifat\ntanah,\nlaju pertambahan panjang akar, dan volume perakaran,\nseperti yang ditunjukkan pada Gambar 6. Heterogenitas\ntanah\nterbentuk\nsebagai\nakibat\nperbedaan\ncara\npengelolaan, bahan pembentuk tanah, kandungan hara, kelembaban,\ntingkat\nagregasi\ntanah,\nporositas,\nkepadatan dan lain-lain. Dari data yang diperoleh dapat\ndibuat model interaksi akar dan tanah untuk berbagai\njenis tanaman dan sifat-sifat tanah secara lebih akurat dan mendekati kenyataan.\nSubramanian et al . (2015) meneliti pengaruh salinitas media tumbuh (100 mM NaCl) terhadap\nperkecambahan akar jagung. Perkembangan akar\ndiukur 3 kali dengan interval waktu 1 minggu terhadap\nobyek penelitian yang sama menggunakan teknik CT\nscan . Dalam penelitian ini digunakan Toshiba XVision beresolusi tinggi yang menghasilkan voxel 0,049 mm 3 (0,35 mm x 0,35 mm x 0,4 mm). Dari gambar 3-D yang\ndihasilkan dapat diketahui bahwa kondisi salinitas\ntinggi pada media perkecambahan menekan perkem-\nbangan akar bagian atas ( upper roots ) dan percabangan lateral akar tanaman jagung (Gambar 6).\n",
+    "page_start": 7,
+    "page_end": 8,
+    "tables": 0,
+    "images": [
+      {
+        "page": 7,
+        "index": 0,
+        "xref": 66,
+        "width": 1036,
+        "height": 931,
+        "bbox": [
+          50.69999694824219,
+          81.77993774414062,
+          547.8599243164062,
+          528.2999267578125
+        ]
+      },
+      {
+        "page": 7,
+        "index": 1,
+        "xref": 68,
+        "width": 342,
+        "height": 347,
+        "bbox": [
+          50.69999694824219,
+          81.77999877929688,
+          214.739990234375,
+          248.0999755859375
+        ]
+      },
+      {
+        "page": 7,
+        "index": 2,
+        "xref": 70,
+        "width": 340,
+        "height": 346,
+        "bbox": [
+          214.97999572753906,
+          81.77995300292969,
+          377.8199768066406,
+          247.49993896484375
+        ]
+      },
+      {
+        "page": 7,
+        "index": 3,
+        "xref": 72,
+        "width": 345,
+        "height": 345,
+        "bbox": [
+          378.41998291015625,
+          82.61997985839844,
+          544.0199584960938,
+          248.219970703125
+        ]
+      },
+      {
+        "page": 7,
+        "index": 4,
+        "xref": 74,
+        "width": 343,
+        "height": 338,
+        "bbox": [
+          50.69999694824219,
+          268.6199951171875,
+          214.97998046875,
+          430.5
+        ]
+      },
+      {
+        "page": 7,
+        "index": 5,
+        "xref": 76,
+        "width": 343,
+        "height": 338,
+        "bbox": [
+          215.6999969482422,
+          268.3799743652344,
+          379.97998046875,
+          430.4999694824219
+        ]
+      },
+      {
+        "page": 7,
+        "index": 6,
+        "xref": 78,
+        "width": 343,
+        "height": 338,
+        "bbox": [
+          380.6999816894531,
+          268.3799743652344,
+          544.97998046875,
+          430.4999694824219
+        ]
+      },
+      {
+        "page": 7,
+        "index": 7,
+        "xref": 80,
+        "width": 1044,
+        "height": 375,
+        "bbox": [
+          49.73999786376953,
+          553.02001953125,
+          550.6199951171875,
+          732.780029296875
+        ]
+      },
+      {
+        "page": 8,
+        "index": 0,
+        "xref": 85,
+        "width": 1048,
+        "height": 359,
+        "bbox": [
+          46.86000061035156,
+          71.21998596191406,
+          549.5399169921875,
+          243.53997802734375
+        ]
+      }
+    ]
+  },
+  {
+    "chunk_id": "chunk_3647a077",
+    "title": "A. Rachman: Aplikasi Teknik Computed Tomography (CT) Scan",
+    "level": 2,
+    "content": "Dari penelitian ini terlihat kelebihan utama dari\nteknik CT scan dalam penelitian perkembangan akar adalah dimungkinkannya merekam perkembangan dan perubahan yang terjadi pada setiap individu akar.\nNamun demikian, penggunaan CT scan dalam penelitian akar perlu kehati-hatian dalam menentukan intensitas radiasi yang dipancarkan agar tidak meng- ganggu tanaman, dilain pihak cukup kuat untuk bisa menembus tanah yang mengelilingi perakaran dengan atenuasi yang tidak terlalu besar. Radiasi yang terlalu rendah akan menyebabkan atenuasi yang besar sehing- ga gambar yang dihasilkan, khususnya pada bagian tengah contoh, menjadi kurang akurat. Di lain pihak, dengan radiasi yang tinggi akan dihasilkan gambar yang lebih akurat namun dihawatirkan akan mempe- ngaruhi pertumbuhan akar setelah proses radiasi.\nSubramanian et al . (2015) menggunakan energi radiasi sebesar 120 kV dan 150 mA pada penelitiannya,\npeneliti lainnya seperti Bastardie et al . (2005) yang menggunakan Medical CT Scanner dengan radiasi 130 kV dan 120 mA dan Langmaack et al . (2002) dengan radiasi 80 kV dan 135mA.\n",
+    "page_start": 9,
+    "page_end": 10,
+    "tables": 0,
+    "images": [
+      {
+        "page": 9,
+        "index": 0,
+        "xref": 91,
+        "width": 1038,
+        "height": 1370,
+        "bbox": [
+          49.499996185302734,
+          95.4599609375,
+          547.7399291992188,
+          752.6998901367188
+        ]
+      },
+      {
+        "page": 9,
+        "index": 1,
+        "xref": 93,
+        "width": 847,
+        "height": 551,
+        "bbox": [
+          95.33999633789062,
+          99.54000854492188,
+          501.5399475097656,
+          363.89996337890625
+        ]
+      },
+      {
+        "page": 9,
+        "index": 2,
+        "xref": 95,
+        "width": 866,
+        "height": 557,
+        "bbox": [
+          91.02000427246094,
+          364.0199890136719,
+          506.4599609375,
+          631.0199584960938
+        ]
+      }
+    ]
+  },
+  {
+    "chunk_id": "chunk_7150d1c4",
+    "title": "IMPLIKASI PEMANFAATAN TEKNIK CT",
+    "level": 1,
+    "content": "SCAN DALAM PENELITIAN TANAH Keunggulan utama dari penggunaan teknik CT scan dalam penelitian tanah dibanding teknik lainnya adalah 1) dimungkinkannya melakukan pengamatan yang berulang pada obyek yang sama tanpa merusak obyek penelitian, 2) mendapatkan hasil pengamatan lebih cepat melalui analisis gambar 3 Dimensi (3-D) yang dihasilkan, dan 3) hasil pengamatan yang detil karena resolusi gambar yang cukup besar (<1 mm).\nDengan kelebihan tersebut, berbagai proses yang terjadi dalam tanah seperti perubahan karakteristik porositas tanah, kelembaban tanah, kepadatan tanah, perkem- bangan biota tanah dan perkembangan akar dapat diamati pada level struktur mikro dan dari waktu ke waktu pada contoh yang sama. Parameter jumlah pori tanah yang berkorelasi tinggi dengan hantaran hidraulik tanah dapat dikuantifikasi dengan menggunakan teknik CT-scan, sehingga dapat memprediksi laju infiltrasi dan volume aliran permukaan secara lebih tepat.\nAnalisis terhadap gambar 3-D yang dihasilkan dapat diketahui respon akar terhadap berbagai bentuk cekaman ( stress ), baik yang bersifat abiotik maupun biotik. Informasi tersebut tidak dapat diperoleh dengan menggunakan teknik sebelumnya karena pengamatan berikutnya dilakukan pada contoh yang berbeda dari contoh yang sudah diamati sebelumnya. Dengan menggunakan contoh yang berbeda pada setiap kali melakukan pengamatan tidak akan dapat menjelaskan urutan proses yang sebenarnya terjadi.\nPemahaman terhadap berbagai proses yang terjadi dalam tanah sebagai akibat dari faktor eksternal dan internal tersebut akan memperbaiki respon pelaksana di lapangan dalam menyikapi berbagai cekaman yang terjadi. Demikian pula terhadap penyusunan rekomendasi teknik budidaya berbagai komoditas akan lebih tajam dan akurat karena sangat spesifik lokasi.\nPENUTUP Penggunaan\nteknologi\nCT\nScanner\ndalam penelitian tanah sangat potensial dalam memberikan\npemahaman yang lebih detil tentang proses-proses yang\nterjadi dalam tanah. Kelebihan utama dari teknik ini\nadalah dihasilkannya gambar 3-D tanpa menyebabkan\ngangguan terhadap obyek penelitian. Dari gambar 3-D\ntersebut dapat dianalisa berbagai parameter tanah\ntermasuk juga penelitian perkembangan perakaran\ntanaman dan interaksi keduanya.\nSecara umum penelitian dengan menggunakan\nteknik\nini\nmasih\ndidominasi\npenelitian\nuntuk\nmengkarakterisasi sifat-sifat fisik tanah, khususnya yang\nberkaitan dengan porositas dan kepadatan. Hal ini\nterutama disebabkan oleh perbedaan kepadatan yang\nbesar antara partikel tanah dengan ruang pori yang\nberisi udara atau air yang menghasilkan koefisien linier\natenuasi yang juga sangat berbeda. Tingkat kedetilan\npengukuran/pengamatan sangat ditentukan oleh besar\nkecilnya resolusi gambar yang dihasilkan dari peralatan\nCT Scan yang digunakan. Makin besar resolusi gambar\n3-D yang dihasilkan makin besar tingkat kedetilan\npengamatan yang dihasilkan.\nPenelitian yang terkait dengan agregasi tanah, dekomposisi bahan organik dalam tanah, aktivitas biologi tanah dan keterkaitan ketiganya dengan menggunakan teknik ini belum banyak dilakukan.\nPemahaman terhadap ketiga parameter tanah tersebut sangat penting untuk menghasilkan rekomendasi\npengelolaan yang tepat sehingga dapat dijaga kualitas tanah tetap baik, khususnya di daerah tropis.\nDAFTAR PUSTAKA\nAllaire-Leung, S.E., S.C. Gupta, and J.F. Moncrief. 2000.\nWater and solute movement in soil as influenced by\nmacropore characteristics: I. Macropore continuity. J.\nSontam. Hydrol. 41:283-301.\nAnderson, S.H., C.J. Gantzer, J.M. Boone, and R.J. Tully.\n1988. Rapid Nondestructive Bulk Density and Soil-\nWater\nContent\nDetermination\nby\nComputed\nTomography. Soil Sci. Soc. Am. J. 52:35-40.\nAnderson, S.H., R.L. Peyton, and C.J. Gantzer. 1990.\nEvaluation of constructed and natural soil macropores\nusing X-ray computed tomography. Geoderma. 46:13-\n29.\nAssmus, A. 1995. Early History of X Rays. http://www.slac.\nstanford.edu/pubs/beamline/25/2/25-2-assmus.pdf\nBeven, K., and P. Germann. 1982. Macropores and water\nflow in soils. Water Resour. Res. 18:1311-1325.\nBastardie, F., Y. Capowiez, and D. Vluseau. 2005. 3D\ncharacterization of earthworm burrow systems in\nnatural soil cores collected from a 12-year-old pasture.\nAppl. Soil Ecol, 30:34-46.\nDenison, C., Carlson, W. D. and Ketcham, R. A. 1997. Three\ndimensional\nquantitative\ntextural\nanalysis\nof\nmetamorphic rocks using high-resolution computed X-\nray tomography: Part I. Methods and techniques. J.\nMetamorphic Geol. 15: 29-44\nEdwards, W. M., L. D. Norton., and C. E. Redmont. 1988.\nCharacterizing macropores that affect inf iltration into\nnon-tilled soil. Soil Sci. Soc. Am. J. 52:483-487.\nEdwards, W. M., M. J. Shipitalo, and L. D. Norton. 1988.\nContribution of macroporosity to infiltration into a\ncontinuous corn no-tilled watershed: Implications for\ncontaminant movement. J. Contam. Hydrol. 3:193-\n205.\nEverts, C. J., and R. S. Kanwar. 1993. Interpreting tension-\ninfiltrometer data for quantifying soil macropores:\nSome particle consideration. Trans. ASAE 36:423-428.\nGantzer, C. J., and S. H. Anderson. 2002. Computed\ntopographic measurement of macroporosity in chisel-\ndisk and no-tillage seedbeds. Soil Tillage Res. 64:101-\n111.\nHeard, J. R., E. J. Kladivko, and J. V. Mannering. 1988. Soil\nmacroporosity,\nhydraulic\nconductivity\nand\nair\npermability of silty soils under long-term conservation\ntillage in Indiana. Soil Tillage Res. 11:1-18\nHo, M. D, J. C. Rosas, K. M. Brown, and J. P. Lynch. 2005.\nRoot architectural tradeoffs for water and phosphorus\nacquisition. Functional Plant Biology 32: 737-748.\n",
+    "page_start": 10,
+    "page_end": 11,
+    "tables": 0,
+    "images": []
+  },
+  {
+    "chunk_id": "chunk_4cd050aa",
+    "title": "A. Rachman: Aplikasi Teknik Computed Tomography (CT) Scan",
+    "level": 2,
+    "content": "Hounsfield, G. N. 1973. Computerized transverse axial\nscanning (tomography): Part I. Description of system.\nBr. J. Radiol. 46: 1016-1022.\nJury, W. A., W. R. Gardner, and W. H. Gardner. 1991. Soil\nPhysics. John Willey & Sons, New York.\nLamandé, M., Wildenschild, D., Berisso, F. E. Garbout, A.\nMarsh, M. Møldrup, P. Keller, T. Hansen, S.B. de\nJonge,\nL.W.\nSchj ø nning.\n2013. X-ray\nCT\nand\nlaboratory measurements on glacial till subsoil cores –\nassessment of inherent and compaction-affected soil\nstructure characteristics. Soil Science , 178 (7), 359-368.\nLangmaack, M., S. Schrader, U. Rapp-Bernardt and K.\nKotzke. 2002. Soil structure rehabilitation of arable soil\ndegraded by compaction. Geoderma 105: 141-152.\nMermut, A.R., M.C.J. Grevers, and E. de Jong. 1992.\nEvaluation of pores under diff erent management\nsystems\nby\nimage\nanalysis\nof\nclay\nsoils\nin\nSaskatchewan, Canada. Geoderma 53:357–372\nPerret, J., S. O. Prasher, A. Kantzas, and C. Langford. 1999.\nThree-Dimensional\nQuantification\nof\nMacropore\nNetworks in Undisturbed Soil Cores. Soil Sci. Soc.\nAm. J. 63: 1530-1543.\nPetrovic, A. M., J. E. Siebert and P. E. Rieke. 1982. Soil bulk\ndensity analysis in three-dimensions by computed\ntomography scanning. Soil Sci. Soc. Am. J. 46:445-\n450.\nPhillips, D. H. and J. J. Lannutti. 1997. Measuring physical\ndensity with x-ray computed tomography. NDT & E\nInternational 30:339-350.\nPires, L. F., F. A. M. Cássaro, O. O. S. Bacchi, and K.\nReichardt. 2011. Non-destructive image analysis of soil\nsurface porosity and bulk density dynamics. Radiation\nPhysics and Chemistry 80:561-566.\nRachman, A., S. H. Anderson, C. J. Gantzer, and E. E.\nAlberts. 2004. Soil Hydraulic Conductivity by Stiff-\nStemmed Grass Hedge Systems. Soil Sci. Soc. Am. J\n68:1386-1393\nRachman, A., S. H. Anderson, and C. J. Gantzer. 2005.\nComputed-Tomography\nMeasurement\nof\nSoil\nMacroporosity Parameters as Affected by Stiff-\nStemmed Grass Hedges. Soil Sci. Soc. Am. J. 69:1609-\n1616.\nRasband, W. 2002. NIH ImageJ Research Service Branch,\nNational Institute of Mental Health, National Institute\nof Health. Bethesda, MD, USA.\nRasiah, V. and L. A. G. Aylmore. 1998. Estimating\nMicroscale Spatial Distribution of Conductivity and\nPore Continuity Using Computed Tomography. Soil\nSci. Soc. Am. J. 62:1197-1202.\nSubramanian, S., Liwen Han, P. Dutilleul, and D. L. Smith.\n2015. Computer tomography scanning can monitor the\neffects of soil medium on root system development: An\nexample of salt stress in corn. Front. Plant Sci. 6.\nTaina, I. A., R.J. Heck, and T.R. Elliot. 2007. Application of\nX-ray computed tomography to soil science: A\nliterature review. Can. J. Soil Sci. 88:1-20.\nUdawatta, R. P., S. H. Anderson, C. J. Gantzer, and H. E. Garrett.\n2008. Influence of prairie restoration on CT-measured soil\npore characteristics. J. Environ. Qual. 37:219-228.\nWarner, G. S., J. L. Nieber, I. D. Moore, and R. A. Geise.\n1989. Characterizing macropores in soil by computed\ntomography. Soil Sci. Soc. Am. J. 53:653-660.\n",
+    "page_start": 11,
+    "page_end": 12,
+    "tables": 0,
+    "images": []
+  }
+]

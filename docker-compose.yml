@@ -1,0 +1,87 @@
+version: '3.8'
+
+services:
+  # AI Document Extractor API
+  ai-document-extractor:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ai-doc-extractor
+    restart: unless-stopped
+    
+    ports:
+      - "8000:8000"
+    
+    environment:
+      # Python settings
+      - PYTHONUNBUFFERED=1
+      - PYTHONDONTWRITEBYTECODE=1
+      
+      # Tesseract settings
+      - TESSDATA_PREFIX=/usr/share/tesseract-ocr/5/tessdata
+      
+      # API Keys (gunakan .env file atau set di sini)
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      
+      # Application settings
+      - MAX_UPLOAD_SIZE=100MB
+      - WORKERS=2
+    
+    volumes:
+      # Persist data
+      - ./outputs:/app/outputs
+      - ./uploads:/app/uploads
+      
+      # Optional: mount code untuk development
+      # - ./app:/app/app
+      # - ./main.py:/app/main.py
+    
+    # Resource limits
+    deploy:
+      resources:
+        limits:
+          cpus: '2.0'
+          memory: 4G
+        reservations:
+          cpus: '1.0'
+          memory: 2G
+    
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    
+    networks:
+      - ai-doc-network
+
+  # Optional: Nginx reverse proxy
+  nginx:
+    image: nginx:alpine
+    container_name: ai-doc-nginx
+    restart: unless-stopped
+    
+    ports:
+      - "80:80"
+    
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    
+    depends_on:
+      - ai-document-extractor
+    
+    networks:
+      - ai-doc-network
+    
+    # Uncomment untuk production
+    # profiles:
+    #   - production
+
+networks:
+  ai-doc-network:
+    driver: bridge
+
+volumes:
+  outputs:
+  uploads:

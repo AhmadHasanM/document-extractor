@@ -1,0 +1,29 @@
+fastapi==0.111.0
+uvicorn[standard]==0.30.0
+python-multipart==0.0.9
+
+# PDF Processing
+pymupdf==1.24.5
+pdfplumber==0.11.1
+pypdf2==3.0.1
+
+# OCR
+pytesseract==0.3.10
+easyocr==1.7.1
+Pillow==10.3.0
+opencv-python-headless==4.10.0.82
+pdf2image==1.17.0
+
+# AI
+google-generativeai==0.7.2
+
+# NLP / Chunking
+sentence-transformers==3.0.1
+numpy==1.26.4
+scikit-learn==1.5.0
+
+# Utilities
+pydantic==2.7.0
+python-dotenv==1.0.1
+aiofiles==23.2.1
+tqdm==4.66.4
